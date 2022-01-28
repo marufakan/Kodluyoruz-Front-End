@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1{
+    color:red;
+}
+
+ul{
+display: inline-block;
+}
+
+#menu li{
+    display: inline;
+    }
+
+#liste{
+    display: inline-block;
+    
+}
+#about_text p,h4{
+    text-align:start;
+}
+h4{
+    color:rgb(235, 166, 17);
+}
+h2{
+    color:purple;
+}
+
+body{
+    background-color: #E9ECEF;
+}
